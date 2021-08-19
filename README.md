@@ -4,7 +4,7 @@ List of laptop available for hackintosh
 
 We now supported some laptop that we built EFI System File for Hackintosh
 
-# Notice: Please READ CAREFULLY README.TXT which contain in EFI file!
+Notice: Please READ CAREFULLY README.TXT which contain in EFI file!
 
 | Laptop - Model | CPU Generation | Bootloader | Link |
 | ------------- | ------------- | ------------- | ------------- |
