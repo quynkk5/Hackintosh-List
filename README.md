@@ -1,11 +1,9 @@
 # Hackintosh-List
 ---
-List of laptop available for hackintosh 
-
-We now supported some laptop that we built EFI System File for Hackintosh
+List of laptop have EFI are available for hackintosh 
 
 Notice: Please READ CAREFULLY README.TXT which contain in EFI file!
-
+---
 | Laptop - Model | CPU Generation | Bootloader | Link |
 | ------------- | ------------- | ------------- | ------------- |
 | Acer Aspire S3 - 391 | Ivy Bridge i3-3317U | Clover R5137 |[Link](https://github.com/quynkk5/Hackintosh-List/blob/b166557863fd21164be63c472b0b3da73aeb4ea7/EFI/Acer%20Aspire%20S3-391.zip)
